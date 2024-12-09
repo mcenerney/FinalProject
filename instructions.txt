@@ -1,0 +1,30 @@
+1. A serious personal portfolio with at least 5 sections: 
+About you
+Interests
+Projects 
+Technologies of expertise
+-working- Contact Me form. 
+
+2. It should be a Single Page application easy to navigate 
+(go from top to bottom and  the other way around) 
+
+3. It should be responsive 
+(I will be looking at it from various devices) 
+
+4. It should be deployed online 
+
+5. NO page /portfolio should be similar to another. 
+(I will be paying special attention to this) 
+
+6. I will be focusing on reviewing quality of the product. 
+
+
+nav bar on left that collapse with three lines [x]
+
+transition colors through every section [x]
+
+projects center image put it in a circle []
+
+fix css per page []
+
+implement smooth scrolling []

@@ -1,0 +1,45 @@
+.contact{
+    width:100%;
+    height:100%;
+    background: linear-gradient(180deg, #a200ff, #d400ff);
+    color:white;
+
+}
+.contact .container{
+    width: 100%;
+    height: 106vh;
+    display: flex;
+    flex-direction: column;
+    gap:3vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact form div{
+    display:flex;
+    flex-direction: column;
+    margin:.5vh;
+
+}
+
+.contact input{
+    width:100%;
+}
+
+.contact form{
+    max-width: 600px;
+    width: 100%;
+
+}
+
+.contact .submitContainer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 1vh;
+}
+
+.contact .submitButton{
+    width: 100%;
+}
